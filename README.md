@@ -19,8 +19,8 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 Clone the angular-mailchimp-form repository using [git][git]:
 
 ```
-git clone https://github.com/godfredakpan/angular-mailchimp-form.git
-cd angular-mailchimp-form
+git clone https://github.com/godfredakpan/angularmailchimp.git
+cd angularmailchimp
 ```
 
 ### Install Dependencies
