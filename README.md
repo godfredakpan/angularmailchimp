@@ -1,4 +1,4 @@
-# Kickdrop Angular Mailchimp Form
+# Dealin Angular Mailchimp Form
 
 Angular app for MailChimp subscriptions with animations using an altered version of [angular-mailchimp](https://github.com/keithio/angular-mailchimp).
 
